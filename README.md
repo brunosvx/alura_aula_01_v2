@@ -1,1 +1,1 @@
-# alura_aula_01_v2
+# 2° projeto da 1° aula da imersão dev da alura
